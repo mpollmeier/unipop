@@ -9,7 +9,7 @@
     <artifactId>unipop-core</artifactId>
     <name>Unipop :: Core</name>
     <properties>
-        <tinkerpop.version>3.0.1-incubating</tinkerpop.version>
+        <tinkerpop.version>3.0.2-incubating</tinkerpop.version>
     </properties>
     <dependencies>
         <dependency>

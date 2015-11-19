@@ -9,7 +9,7 @@
     <artifactId>unipop-elastic</artifactId>
     <name>Unipop :: Elasticsearch Controllers</name>
     <properties>
-        <elasticsearch.version>1.7.2</elasticsearch.version>
+        <elasticsearch.version>1.7.3</elasticsearch.version>
     </properties>
     <dependencies>
         <dependency>
